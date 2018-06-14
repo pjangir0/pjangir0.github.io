@@ -4,10 +4,10 @@
 ### UVM Learning
 
  - [Chip verify](http://www.chipverify.com/uvm/test)  
- - [UVM learnuvmverification](http://www.learnuvmverification.com/index.php/2016/04/29/uvm-phasing)  
+ - [UVM learnuvmverification](http://www.learnuvmverification.com/index.php/2016/04/29/uvm-phasing) 
+ - [UVM Phases](/UVM/Phase.md)
 
 ---
-
 ### Miscellaneous
 
  - [CDC paper link](http://www.sunburst-design.com/papers/CummingsSNUG2008Boston_CDC.pdf)
