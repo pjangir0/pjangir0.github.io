@@ -5,7 +5,7 @@
 
  - [Chip verify](http://www.chipverify.com/uvm/test)  
  - [UVM learnuvmverification](http://www.learnuvmverification.com/index.php/2016/04/29/uvm-phasing) 
- - [UVM Phases](/UVM/Phase.md)
+ - [UVM Phases](https://pjangir0.github.io/UVM/)
 
 ---
 ### Miscellaneous
