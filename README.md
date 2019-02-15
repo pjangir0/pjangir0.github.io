@@ -15,3 +15,4 @@
  - [Event region SV](http://www.sunburst-design.com/papers/CummingsSNUG2006Boston_SystemVerilog_Events.pdf)
  - [Vritual class -UVM](http://www.sunburst-design.com/papers/CummingsSNUG2018SV_Virtuals.pdf)
  - [Analysis Port](http://www.sunburst-design.com/papers/CummingsSNUG2018AUS_UVMAnalysisCopy.pdf)
+ - [patent read](https://patents.google.com/patent/US20170347061A1/en?oq=US+20170347061)
